@@ -16,7 +16,7 @@ Description: Pre-testing and diagnostic tools for panel data analysis.
     Rodrigues (2023) <doi:10.1016/j.jeconom.2022.09.001> via 'xtcsdq'; and (4)
     the panel quantile-regression slope homogeneity S-hat and D-hat statistics
     of Galvao, Juhl, Montes-Rojas and Olmo (2017)
-    <doi:10.1080/07350015.2015.1054493> via 'xtqsh'. Together these tests
+    <doi:10.1093/jjfinec/nbx016> via 'xtqsh'. Together these tests
     address three fundamental pre-testing questions: (i) are slopes
     homogeneous? (ii) is there cross-sectional dependence? and (iii) is
     the panel balanced and is missingness ignorable?
